@@ -1,4 +1,4 @@
-# Olá, eu sou Marco Castro 
+# Olá, eu sou Luiz Rangel 
 
 ```ruby 
 class Programmer
